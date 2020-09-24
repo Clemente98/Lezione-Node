@@ -1,0 +1,25 @@
+{
+  "name": "lezione-node",
+  "version": "0.0.1",
+  "description": "Server node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Clemente98/Lezione-Node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Clemente98/Lezione-Node/issues"
+  },
+  "homepage": "https://github.com/Clemente98/Lezione-Node#readme",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
